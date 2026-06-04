@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11",
+    "ownerEmail": "demo@exemplu.ro",
+    "service": "Planificare Pensie",
+    "date": "2026-01-08",
+    "time": "11:00",
+    "status": "completed",
+    "clientName": "Cristina Munteanu",
+    "phone": "0722 123 999",
+    "notes": "",
+    "createdAt": "2025-12-28"
+  },
+  {
+    "id": "12",
+    "ownerEmail": "demo@exemplu.ro",
+    "service": "Strategii de Investitii",
+    "date": "2025-12-15",
+    "time": "14:00",
+    "status": "cancelled",
+    "clientName": "George Nistor",
+    "phone": "",
+    "notes": "Anulata din cauza unui conflict de program.",
+    "createdAt": "2025-12-01"
+  }
+]

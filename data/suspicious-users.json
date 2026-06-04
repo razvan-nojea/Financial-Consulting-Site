@@ -1,0 +1,13 @@
+[
+  {
+    "userId": "user-demo",
+    "reason": "Comportament multiplu suspect — risc înalt",
+    "score": 100,
+    "triggeredRules": [
+      "appointment:delete"
+    ],
+    "detectedAt": "2026-05-19T08:44:00.988Z",
+    "updatedAt": "2026-05-19T08:56:38.487Z",
+    "resolvedAt": "2026-05-19T08:56:38.487Z"
+  }
+]
