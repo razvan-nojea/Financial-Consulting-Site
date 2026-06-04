@@ -1,0 +1,18 @@
+[
+  {
+    "id": "user-demo",
+    "email": "demo@exemplu.ro",
+    "passwordHash": "8f58a7655496ceb19e711bb4ee83f406:1ec477caaf76dc99fd0c7932227e2cae28fe6ffb8b47a5d8853be49b7204731acb4171e1cd4a1d72897722944319fc072cd40fe64ca105bd4a1d421392fafd4d",
+    "name": "Cont Demo",
+    "role": "user",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "user-admin",
+    "email": "admin@exemplu.ro",
+    "passwordHash": "7215fd23e09ed2a231b80fd17c8c5984:513ee35877683b69863d89a688b35fc9e07b95ca9406d6fc2d3763933171a4930d69c7929769c0c0b409522dbb9af4858c27e016bb7dafd22201b408b203a8a3",
+    "name": "Administrator",
+    "role": "admin",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  }
+]

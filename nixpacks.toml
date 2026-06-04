@@ -1,0 +1,10 @@
+# Force npm instead of pnpm (Railway detects pnpm-lock.yaml and tries to use
+# pnpm, but this project is managed with npm / package-lock.json).
+[phases.setup]
+nixPkgs = ["nodejs_20"]
+
+[phases.install]
+cmds = ["npm ci"]
+
+[phases.build]
+cmds = ["npm run build"]
